@@ -7,3 +7,5 @@ TODO: Instructions to be added
 
 ## Technology
 * Python
+
+![Imgur](https://www.imgur.com/fOARu33.png)
